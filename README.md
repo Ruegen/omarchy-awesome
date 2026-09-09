@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Omarchy" width="520">
+  <img src="logo.png" alt="Omarchy" width="520">
 </p>
 
 <h1 align="center">Awesome Omarchy</h1>
@@ -21,14 +21,20 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
 
 ## Contents
 
-- [Flea](#flea)
-- [Omamail](#omamail)
+- [Files](#files)
+  - [Flea](#flea)
+- [Mail](#mail)
+  - [Omamail](#omamail)
 
 ---
+
+## Files
 
 ### [Flea](https://github.com/thisisgm/flea)
 
 A fast, keyboard-first file manager built for Omarchy: Quickshell on the front, Rust on the back.
+
+## Mail
 
 ### [Omamail](https://github.com/huacnlee/omamail)
 
