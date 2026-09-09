@@ -23,6 +23,7 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
 
 - [Files](#files)
   - [Flea](#flea)
+  - [Omasend](#omasend)
 - [Mail](#mail)
   - [Omamail](#omamail)
 - [Photos](#photos)
@@ -35,6 +36,10 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
 ### [Flea](https://github.com/thisisgm/flea)
 
 A fast, keyboard-first file manager built for Omarchy: Quickshell on the front, Rust on the back.
+
+### [Omasend](https://github.com/huacnlee/omasend)
+
+An Omarchy-native LocalSend client. Paste a screenshot or file, pick a nearby device, and send it over the local network.
 
 ## Mail
 
