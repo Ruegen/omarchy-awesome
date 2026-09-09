@@ -24,6 +24,8 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
 - [Files](#files)
   - [Flea](#flea)
   - [Omasend](#omasend)
+- [Games](#games)
+  - [Omakade](#omakade)
 - [Mail](#mail)
   - [Omamail](#omamail)
 - [Photos](#photos)
@@ -42,6 +44,12 @@ A fast, keyboard-first file manager built for Omarchy: Quickshell on the front, 
 ### [Omasend](https://github.com/huacnlee/omasend)
 
 An Omarchy-native LocalSend client. Paste a screenshot or file, pick a nearby device, and send it over the local network.
+
+## Games
+
+### [Omakade](https://github.com/btsouth/omakade)
+
+A local-first game library built for Omarchy. Steam, Lutris, Heroic, and emulator titles in one cover-focused home that follows the active theme.
 
 ## Mail
 
