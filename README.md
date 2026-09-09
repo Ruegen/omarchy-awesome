@@ -24,6 +24,7 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
 - [Files](#files)
   - [Flea](#flea)
   - [Omasend](#omasend)
+  - [Strata](#strata)
 - [Games](#games)
   - [Omakade](#omakade)
 - [Mail](#mail)
@@ -44,6 +45,10 @@ A fast, keyboard-first file manager built for Omarchy: Quickshell on the front, 
 ### [Omasend](https://github.com/huacnlee/omasend)
 
 An Omarchy-native LocalSend client. Paste a screenshot or file, pick a nearby device, and send it over the local network.
+
+### [Strata](https://github.com/lgse/strata)
+
+A keyboard-first file manager designed for Omarchy. Miller columns, icons, and list views that follow the active theme.
 
 ## Games
 
