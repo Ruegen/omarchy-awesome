@@ -28,6 +28,8 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
   - [Omamail](#omamail)
 - [Photos](#photos)
   - [Omalux](#omalux)
+- [Weather](#weather)
+  - [Omastorm](#omastorm)
 
 ---
 
@@ -52,3 +54,9 @@ An Omarchy mail plugin with Gmail, HEY, and IMAP. Inbox in the desktop instead o
 ### [Omalux](https://omalux.org)
 
 A keyboard-first RAW photo editor built for Omarchy, with its own UI on darktable’s processing.
+
+## Weather
+
+### [Omastorm](https://github.com/wesleygrimes/omastorm)
+
+Live NEXRAD radar for the Omarchy desktop. Drawn from the measured data in the monospace pixel language of the shell.
