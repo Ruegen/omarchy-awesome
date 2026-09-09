@@ -25,6 +25,8 @@ Community apps built for Omarchy. Keyboard-first, themed with the desktop, and m
   - [Flea](#flea)
 - [Mail](#mail)
   - [Omamail](#omamail)
+- [Photos](#photos)
+  - [Omalux](#omalux)
 
 ---
 
@@ -39,3 +41,9 @@ A fast, keyboard-first file manager built for Omarchy: Quickshell on the front, 
 ### [Omamail](https://github.com/huacnlee/omamail)
 
 An Omarchy mail plugin with Gmail, HEY, and IMAP. Inbox in the desktop instead of another browser tab.
+
+## Photos
+
+### [Omalux](https://omalux.org)
+
+A keyboard-first RAW photo editor built for Omarchy, with its own UI on darktable’s processing.
